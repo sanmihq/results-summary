@@ -92,6 +92,7 @@ body {
 .results-summary {
     --padding: 2rem;
     --border-radius: 2rem;
+    height: 100vh;
     width: 46rem;
     display: grid;
 }
